@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@SoulyJayck 
+warrayquipsome
+/
+NOVATURIENT
+Public
+Code
+Issues
+2
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+NOVATURIENT/DiscordBrokeNVTR-fix.css
+@warrayquipsome
+warrayquipsome Update DiscordBrokeNVTR-fix.css
+Latest commit ea17ab3 on 18 Jan
+ History
+ 1 contributor
+1723 lines (1707 sloc)  63.2 KB
+
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
@@ -72,15 +102,15 @@ vc ring colour by david
 /*theme alert*/
 @keyframes warningflash {
     0% {
-      box-shadow: 0 2px 10px rgba(0,204,255,0.2),0 0 0 2px rgba(0,204,255,0.3);
+      box-shadow: 0 2px 10px rgba(240,71,71,0.2),0 0 0 2px rgba(240,70,70,0.3);
     }
   
     70% {
-      box-shadow: 0 0 20px 15px rgba(0,204,255,0.1),0 0 0 6px rgba(0,204,255,0.2);
+      box-shadow: 0 0 20px 15px rgba(240,71,71,0.1),0 0 0 6px rgba(240,70,70,0.2);
     }
   
     100% {
-      box-shadow: 0 0 20px 15px rgba(0,204,255,0),0 0 0 6px rgba(240,24,70,0.1);
+      box-shadow: 0 0 20px 15px rgba(240,71,71,0),0 0 0 6px rgba(240,24,70,0.1);
     }
   }
   .theme-light .layer-86YKbF:first-of-type::before {
@@ -100,32 +130,32 @@ vc ring colour by david
     border-radius: 5px;
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.22);
     animation: warningflash 1s ease infinite;  
-    border: 3px solid #00CCFF;
+    border: 3px solid #F04747;
   }
   .theme-light [aria-controls="appearance-tab"],
   .theme-light .app-2CXKsg .container-YkUktl > .noWrap-hBpHBz > .button-12Fmur:nth-child(3) {
     animation: warningflash 1s ease infinite;
-    border: 2px solid #00CCFF!important; 
+    border: 2px solid #F04747!important; 
   } 
 .theme-light #user-settings-cog-Appearance {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #00CCFF!important; 
+  border: 2px solid #F04747!important; 
 }
 .theme-light #user-settings-cog-Appearance--dark {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #00CCFF!important; 
+  border: 2px solid #F04747!important; 
 }
     .theme-light .children-1xdcWE > .marginTop40-Q4o1tS:nth-child(2) > div > div[tabindex="-1"]:not(:nth-child(3)) {
     animation: warningflash 1s ease infinite;
-    border: 2px solid #00CCFF;
+    border: 2px solid #F04747;
   }
 .theme-light #user-settings-cog-Appearance {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #00CCFF!important; 
+  border: 2px solid #F04747!important; 
 }
 .theme-light #user-settings-cog-Appearance--dark {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #00CCFF!important; 
+  border: 2px solid #F04747!important; 
 }
 /*theme background image*/
 .titleBar-1it3bQ,
@@ -1721,3 +1751,18 @@ div[class*="typeWindows-"]::after {
 .theme-dark .searchOption-351dTI .filter-5YbOzJ {
   color: rgb(255, 86, 86)!important;
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
